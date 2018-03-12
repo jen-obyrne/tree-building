@@ -1,0 +1,13 @@
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/TreeBuilding.deps.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/TreeBuilding.runtimeconfig.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/TreeBuilding.runtimeconfig.dev.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/TreeBuilding.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/bin/Debug/netcoreapp2.0/TreeBuilding.pdb
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/obj/Debug/netcoreapp2.0/TreeBuilding.csproj.CoreCompileInputs.cache
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/obj/Debug/netcoreapp2.0/TreeBuilding.AssemblyInfoInputs.cache
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/obj/Debug/netcoreapp2.0/TreeBuilding.AssemblyInfo.cs
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/obj/Debug/netcoreapp2.0/TreeBuilding.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/tree-building/obj/Debug/netcoreapp2.0/TreeBuilding.pdb
